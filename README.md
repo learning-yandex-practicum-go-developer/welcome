@@ -5,7 +5,8 @@ All repositories under the **learning-go-developer** organization are provided "
 By using any repository from this organization, you acknowledge and agree that:
 
 - The organization is not responsible for any direct or indirect damages, data loss, legal claims, or other consequences.  
-- Copying, reproducing, distributing, or otherwise reusing any part of the repositories is **strictly prohibited**. No permissions will be granted.  
+- Public repositories are available for viewing and learning purposes only.  
+- Private repositories (including practicums) are **confidential**. Copying, reproducing, distributing, or otherwise reusing any part of the private repositories is **strictly prohibited**. No permissions will be granted.  
 
 This disclaimer applies to all repositories of the organization.  
 Use at your own risk.
@@ -17,7 +18,8 @@ Use at your own risk.
 Используя любой репозиторий организации, вы соглашаетесь с тем, что:
 
 - Организация не несет ответственности за прямые или косвенные убытки, потерю данных, юридические претензии и другие последствия.  
-- Копирование, воспроизведение, распространение или иное использование любых частей репозиториев **строго запрещено**. Разрешения не предоставляются.  
+- Публичные репозитории доступны только для просмотра и учебных целей.  
+- Приватные репозитории (включая практикумы) являются **конфиденциальными**. Копирование, воспроизведение, распространение или иное использование любых частей приватных репозиториев **строго запрещено**. Разрешения не предоставляются.  
 
 Отказ от ответственности распространяется на все репозитории организации.  
 Использование на свой страх и риск.
