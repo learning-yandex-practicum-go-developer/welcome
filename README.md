@@ -1,5 +1,3 @@
-# Welcome repository for learning purposes only.
-
 # 📜 Organization-wide Disclaimer / Отказ от ответственности организации
 
 ## English
