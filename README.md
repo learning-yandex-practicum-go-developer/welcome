@@ -14,3 +14,12 @@ This disclaimer applies to **all repositories** of the organization. Use at your
 Все репозитории организации [learning-yandex-practicum-go-developer](https://github.com/learning-yandex-practicum-go-developer) предоставляются "как есть" без каких-либо гарантий.  
 Используя любой репозиторий организации, вы соглашаетесь с тем, что организация **не несет ответственности** за прямые или косвенные убытки, потерю данных, юридические претензии и другие последствия.  
 Отказ от ответственности распространяется на **все репозитории организации**. Использование на свой страх и риск.
+
+---
+
+### List Pull requests 
+
+- Pull request successfully merged and closed
+    - go1fl-4-sprint-final 
+- Open repositories
+    - empty
