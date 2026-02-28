@@ -29,6 +29,4 @@ Use at your own risk.
 ### List Pull requests 
 
 - Pull request successfully merged and closed
-    - go1fl-4-sprint-final 
-- Open repositories
-    - empty
+    - go1fl-4-sprint-final
