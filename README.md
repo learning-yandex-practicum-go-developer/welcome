@@ -26,7 +26,11 @@ Use at your own risk.
 
 ---
 
-### List Pull requests 
+### List Pull requests
+
+##### "For access to review a private repository, the reviewer must provide their GitHub username. Upon receipt of the username, the student will add the reviewer as a collaborator. Only then will the pull request link become accessible."
+
+##### «Для получения доступа к ревью приватного репозитория ревьюер обязан предоставить свой GitHub‑ник. После получения ника студент добавит ревьюера в коллабораторы. Только после этого ссылка на Pull Request станет доступна.»
 
 - Pull request successfully merged and closed
     - go1fl-4-sprint-final
