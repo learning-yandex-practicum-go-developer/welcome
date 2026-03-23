@@ -35,5 +35,6 @@ Use at your own risk.
 - Pull request successfully merged and closed
     - [go1fl-4-sprint-final](https://github.com/learning-go-developer/go1fl-4-sprint-final)
     - [go1fl-5-sprint-final](https://github.com/learning-go-developer/go1fl-5-sprint-final)
-- Sent for review
     - [go1fl-6-sprint-final](https://github.com/learning-go-developer/go1fl-6-sprint-final)
+- Sent for review
+    - Empty
