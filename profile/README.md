@@ -24,6 +24,7 @@
 | **Спринт 4** | [go1fl-4-sprint-final](https://github.com/learning-go-developer/go1fl-4-sprint-final) | ✅ Merged |
 | **Спринт 5** | [go1fl-5-sprint-final](https://github.com/learning-go-developer/go1fl-5-sprint-final) | ✅ Merged |
 | **Спринт 6** | [go1fl-6-sprint-final](https://github.com/learning-go-developer/go1fl-6-sprint-final) | ✅ Merged |
+| **Спринт 7** | [go1fl-7-sprint-final](https://github.com/learning-go-developer/go1fl-7-sprint-final) | ✅ Merged |
 
 ---
 
