@@ -37,14 +37,19 @@
 <summary>Нажмите, чтобы развернуть / Click to expand</summary>
 
 #### English
-- **As Is:** All repositories and content are provided "as is" without any warranties.
-- **Copyright:** All rights reserved. Copying, redistribution, or unauthorized use of any materials (code, docs, or private practicums) is **strictly prohibited**.
-- **Confidentiality:** Private repositories are for authorized review only.
-- **Liability:** Use at your own risk. Neither the **Organization** nor the **Author/Owner** shall be liable for any direct or indirect damages, data loss, or other consequences arising from the use of these materials.
+- **As Is Environment**: All repositories and materials in this sandbox are provided “as is” for review, testing, and evaluation purposes only.
+- **Access Restriction**: Access is granted only to authorized users.
+- **Confidentiality**: All private repositories and materials are confidential and must not be shared, copied, or redistributed.
+- **No Rights Granted**: No ownership or usage rights are granted unless explicitly stated in a separate license.
+- **Liability**: The organization and authors are not responsible for any damages, data loss, or consequences resulting from use of this sandbox environment.
+- **Security Notice**: Users are responsible for handling all materials securely and in accordance with internal access policies.
 
 #### Русский
-- **Как есть:** Все репозитории и материалы предоставляются «как есть» без каких-либо гарантий.
-- **Авторское право:** Все права защищены. Копирование, распространение или несанкционированное использование любых материалов (кода, документации или приватных практикумов) **строго запрещено**.
-- **Конфиденциальность:** Приватные репозитории доступны только для авторизованного ревью.
-- **Ответственность:** Использование на свой страх и риск. Ни **Организация**, ни **Автор/Владелец** не несут ответственности за любые прямые или косвенные убытки, потерю данных или иные последствия, возникшие в результате использования данных материалов.
+- **Режим «как есть»**: Все материалы в песочнице предоставляются исключительно для тестирования и ознакомления.
+- **Ограничение доступа**: Доступ имеют только авторизованные пользователи.
+- **Конфиденциальность**: Приватные материалы являются конфиденциальными и не подлежат копированию или распространению.
+- **Отсутствие передачи прав**: Никакие права не передаются, если это не указано отдельно в лицензии.
+- **Ответственность**: Организация и авторы не несут ответственности за любые последствия использования.
+- **Безопасность**: Пользователь обязан соблюдать внутренние правила обращения с данными.
+
 </details>
