@@ -31,25 +31,10 @@
 
 ---
 
-### 📜 Disclaimer / Отказ от ответственности
+## 📜 Disclaimer
 
-<details>
-<summary>Нажмите, чтобы развернуть / Click to expand</summary>
+**English**: Materials are provided *as is* under the LICENSE file. No warranties, no rights granted unless explicitly stated. Authors are not liable for damages. No partnership or obligations created.  
 
-#### English
-- **As Is Environment**: All repositories and materials in this sandbox are provided “as is” for review, testing, and evaluation purposes only.
-- **Access Restriction**: Access is granted only to authorized users.
-- **Confidentiality**: All private repositories and materials are confidential and must not be shared, copied, or redistributed.
-- **No Rights Granted**: No ownership or usage rights are granted unless explicitly stated in a separate license.
-- **Liability**: The organization and authors are not responsible for any damages, data loss, or consequences resulting from use of this sandbox environment.
-- **Security Notice**: Users are responsible for handling all materials securely and in accordance with internal access policies.
+**Русский**: Материалы предоставляются *как есть* и регулируются LICENSE. Гарантий нет, права не передаются без явного указания. Автор(ы) не несут ответственности. Партнёрство или обязательства не создаются.  
 
-#### Русский
-- **Режим «как есть»**: Все материалы в песочнице предоставляются исключительно для тестирования и ознакомления.
-- **Ограничение доступа**: Доступ имеют только авторизованные пользователи.
-- **Конфиденциальность**: Приватные материалы являются конфиденциальными и не подлежат копированию или распространению.
-- **Отсутствие передачи прав**: Никакие права не передаются, если это не указано отдельно в лицензии.
-- **Ответственность**: Организация и авторы не несут ответственности за любые последствия использования.
-- **Безопасность**: Пользователь обязан соблюдать внутренние правила обращения с данными.
-
-</details>
+📌 See full disclaimer in [SANDBOX_DISCLAIMER.md](./SANDBOX_DISCLAIMER.md)
